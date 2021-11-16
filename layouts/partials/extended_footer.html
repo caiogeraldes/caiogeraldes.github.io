@@ -1,0 +1,25 @@
+<!--
+To add an extended footer section, please create
+`layouts/partials/extended_footer.html` in your Hugo directory.
+-->
+
+<!-- Newly defined abbreviations and call -->
+<script>
+   Leipzig().abbreviations.MP = "middle-passive";
+   Leipzig().abbreviations.C = "common";
+   Leipzig().abbreviations.PRT = "preterite";
+   Leipzig().abbreviations.ETH = "ethnonym";
+   Leipzig().abbreviations.MUT = "mutation";
+
+  document.addEventListener('DOMContentLoaded', function() {
+    Leipzig().gloss();
+    Leipzig('#complete', {
+      firstLineOrig: true,
+    }).gloss();
+    Leipzig('#luvita', {
+      firstLineOrig: false,
+    }).gloss();
+  });
+</script>
+
+<bibtex src="/bib/biblio.bib"></bibtex>
