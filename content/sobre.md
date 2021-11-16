@@ -1,6 +1,6 @@
 +++
 title = "Sobre"
-date = "2019-01-25"
+date = "2021-11-16"
 author = "Caio G"
 +++
 
@@ -28,5 +28,5 @@ Via de regra trabalho com `Linux`, `LaTeX` e `vim`.
 
 # Não tão profissional assim
 
-Alguns podem me conhecer pela arroba [@silenus32](https://twitter.com/silenus32) no twitter, pelo que eu peço desculpas pelo excesso de coisas sobre remo.
+Alguns podem me conhecer pela arroba [@fileretmos](https://twitter.com/fileretmos) no twitter, pelo que eu peço desculpas pelo excesso de coisas sobre remo.
 
