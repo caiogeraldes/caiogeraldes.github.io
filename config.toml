@@ -1,4 +1,4 @@
-baseurl = "https://caiogeraldes.gitlab.io"
+baseurl = "caiogeraldes.netlify.app/"
 languageCode = 'pt'
 defaultContentLanguage = "pt"
 title = 'caio g'
