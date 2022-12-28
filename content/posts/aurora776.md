@@ -13,7 +13,7 @@ showFullContent = false
 Hino relativamente curto da série de hinos à Aurora dos Vasiṣṭhas, bem
 estruturado e com algumas charadas / jogos de interpretação.
 As estrofes 3 e 5 emolduram o centro do hino na estrofe 4 com a repetição
-de versos abertos por _ámardhanto vásubhir_ 'imaculados, com os bons ...'.
+de versos abertos por _ámardhanto vásubhir_ 'imaculados, com os bons …'.
 Como de costume, o começo do poema parece ser mais bem ajambrado formalmente,
 enquanto a segunda metade contém os pedidos mais específicos do poeta.
 Um dos tópicos comuns da poesia védica aparece bem: o poder constituidor
@@ -96,7 +96,7 @@ acesso ao divino.
 ## Comentários e notas
 
 - **Estrofe 1**
-  - **1ab** _... viśvájanyaṁ_ | _viśvā́naraḥ ..._ 'de toda gente. | de todos homens':
+  - **1ab** _… viśvájanyaṁ_ | _viśvā́naraḥ …_ 'de toda gente. | de todos homens':
     repetição de compostos com _viśvá-_ 'todos, todas, tudo' na quebra do verso.
     Vide também **1d** _bhúvanaṁ víśvam_ 'tudo que é, que há; todas as criaturas',
     com sentido similar a _viśvájanya-_ 'toda gente'.
@@ -105,7 +105,7 @@ acesso ao divino.
     a compreensão dos versos. Neste caso, poder-se-ia suplementar 'sua' que se
     refere ambiguamente a Savitar (m.) e a Aurora (f.), sendo a primeira opção mais
     natural, dado que Savitar é responsável por impelir o sol, aqui mencionado
-    indiretamente como _devā́nām ... cákṣur_ 'olho dos deuses'.
+    indiretamente como _devā́nām … cákṣur_ 'olho dos deuses'.
   - **1d** _bhúvanaṁ víśvam_ 'tudo que existe': talvez possa ser interpretado como
     'o mundo inteiro'. A palavra _bhúvana_ por vezes tem sentido próximo ao
     português 'ser' nas expressões 'ser vivo, ser animado, ser inanimado'.
@@ -121,7 +121,7 @@ acesso ao divino.
     que teriam ordenado os caminhos. A continuação do poema tornará claro.
     A repetição da fórmula que mencionamos terá servido de pista para os
     espectadores mais atentos que a resposta tinha sido dada.
-  - **2cd** _... purástāt_ | _pratīcy ..._ '[vindo] de leste | [voltada] a oeste':
+  - **2cd** _… purástāt_ | _pratīcy …_ '[vindo] de leste | [voltada] a oeste':
     termos contrastivos justapostos entre o fim e começo de versos que
     formam um dístico.
   - **2d**: novamente, é difícil não suplementar o sujeito da oração sem

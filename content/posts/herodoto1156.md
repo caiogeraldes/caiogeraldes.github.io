@@ -19,7 +19,8 @@ por gregos e bárbaros acabem sem glória, e entre outras coisas, a razão
 pela qual guerrearam entre si.
 
 ## 1
- (1) Pois bem, os persas bem informados dizem terem sido os
+
+(1) Pois bem, os persas bem informados dizem terem sido os
 fenícios os causadores da arenga. Foi que quando chegaram a este mar
 vindos do mar chamado Eritreu e ocuparam a região onde ainda hoje
 vivem, logo se empenharam em fazer longas navegações e transportarem
@@ -37,7 +38,8 @@ junto a outras Io foi raptada. Eles as enfiaram nos navios e partiram
 navegando em direção ao Egito.
 
 ## 2
- (1) Dizem os persas que foi assim que Io chegou ao Egito ---
+
+(1) Dizem os persas que foi assim que Io chegou ao Egito ---
 diferentemente dos gregos --- e que isso primeiro deu início às
 injustiças. Depois disso, eles dizem, alguns gregos (e eles não tem
 como nos contar o nome) puseram pés na Tiro fenícia e raptaram a filha
@@ -52,7 +54,8 @@ responderam que não lhes fora paga retribuição pelo rapto de Io, a
 argiva, e que então eles é que não iriam lhes pagar.
 
 ## 3
- (1) Em uma outra geração depois daquela, Alexandre, filho de
+
+(1) Em uma outra geração depois daquela, Alexandre, filho de
 Pría-mo, porque ouvira falar dessa história, passou a desejar obter uma
 mulher da Grécia por meio de um rapto, acreditando completamente de que
 não teria que pagar retribuição, já que eles não haviam pagado. (2)
@@ -64,7 +67,8 @@ retornaram aos reclamantes, agora queriam que houvesse retribuição por
 parte dos outros.
 
 ## 4
- (1) Até então só o que acontecera entre os dois foram raptos, mas
+
+(1) Até então só o que acontecera entre os dois foram raptos, mas
 contam que depois os gregos se tornaram tanto mais culpados: começaram
 a enviar exércitos à Ásia antes que os outros o fizessem à Europa. (2)
 \[Os persas\] de fato \[dizem\] considerar o rapto de mulheres uma ação
@@ -81,7 +85,8 @@ habitavam como semelhantes e consideravam a Europa e o povo grego como
 separados.
 
 ## 5
- (1) Assim é como os persas dizem ter se passado e eles assumem
+
+(1) Assim é como os persas dizem ter se passado e eles assumem
 que foi com a tomada de Ílio que começou sua inimizade com os gregos.
 (2) Quanto ao que se passou com Io, os fenícios não concordam tanto
 assim, pois dizem que não foi se valendo de um rapto que eles a levaram
@@ -100,7 +105,8 @@ tempo eram grandes, outrora foram pequenas. Sabendo que a fortuna humana
 não costuma permanecer no mesmo lugar, relembrarei de ambas igualmente.
 
 ## 6
- (1) Creso era do povo lídio, filho de Aliates e governante dos
+
+(1) Creso era do povo lídio, filho de Aliates e governante dos
 povos deste lado do rio Halis, que nascido no sul, entre os sírios e
 paflagônios, segue contra o vento do norte em direção ao mar chamado
 Euxeno. (2) Foi Creso o primeiro bárbaro, do qual temos conhecimento,
@@ -112,7 +118,8 @@ atacou a Jônia antes de Creso, posto que aquela não tinha almejado a
 submissão das cidades, mas o saque por meio de incursões.
 
 ## 7
- (1) A hegemonia, anteriormente dos Heraclidas, passou à família
+
+(1) A hegemonia, anteriormente dos Heraclidas, passou à família
 de Creso, os chamados Mermnadas, da seguinte maneira. (2) Havia
 Candaules, chamado de Mírsilo pelos gregos, governante de Sardes e
 descendente de Alceu filho de Héracles. Agron, filho de Nino, filho de
@@ -126,7 +133,8 @@ que então reinaram por vinte e duas gerações, por cento e cinco anos,
 cada filho recebendo o reinado do pai até Candaules filho de Mirso.
 
 ## 8
- (1) O tal Candaules havia se enamorado da sua própria mulher e,
+
+(1) O tal Candaules havia se enamorado da sua própria mulher e,
 enamorado, a considerava ser de longe a mulher mais bela de todas. Tanto
 ele considerava isso que, --- veja, havia entre seus lanceiros um certo
 Giges, filho de Dáscilo, que lhe agradava especialmente ---,
@@ -145,7 +153,8 @@ acredito que ela seja a mais bela das mulheres, mas lhe peço que não me
 peça coisas erradas."
 
 ## 9
- (1) Ele dizia coisas tais para escapar, morrendo de medo que lhe
+
+(1) Ele dizia coisas tais para escapar, morrendo de medo que lhe
 acontecesse algo de ruim por causa disso tudo, ao que ele lhe respondeu
 assim: "Coragem, Giges, e não tenha medo de mim como se eu dissesse
 essas coisas para lhe testar, nem tema a minha mulher e que dela lhe
@@ -160,7 +169,8 @@ de costas pra você, tome o cuidado nesse momento para que ela não lhe
 veja de saída."
 
 ## 10
- (1) E como Giges não conseguiu se safar, ele se preparou.
+
+(1) E como Giges não conseguiu se safar, ele se preparou.
 Candaules, quando achou que já era a hora de cama, levou Giges para
 dentro do quarto e logo depois sua mulher chegou. Ela entrou e tirou a
 roupa, enquanto Giges a espiava. (2) Quando a mulher deu as costas a
@@ -172,7 +182,8 @@ porque entre os lídios, e também entre boa parte dos bárbaros, até
 mesmo um homem ser visto nu traz-lhe grande vergonha.
 
 ## 11
- (1) Naquela noite ela não deixou transparecer nada e manteve
+
+(1) Naquela noite ela não deixou transparecer nada e manteve
 silêncio, mas assim que raiou o dia, aprontou aqueles que entre os
 servos lhe eram mais fiéis e convocou Giges. Ele, por sua vez, achando
 que ela não sabia nada do que se passara, foi ao chamado, pois já
@@ -193,7 +204,8 @@ Ela respondeu: "O ataque ocorrerá no mesmo lugar em que ele me mostrou
 nua. O atentado ocorrerá enquanto ele dorme."
 
 ## 12
- (1) Já haviam tramado o plano, quando, chegada a noite (pois
+
+(1) Já haviam tramado o plano, quando, chegada a noite (pois
 Giges não tinha se safado e nem havia saída alguma, mas ou ele ou
 Candaules teriam que morrer), ele seguiu a mulher para o quarto. Ela
 lhe deu um punhal e o escondeu atrás daquela mesma porta. (2) Mais
@@ -203,7 +215,8 @@ o que Arquíloco de Paros, nascido tempos depois desse acontecimento,
 relembrou em trímetros jâmbicos.
 
 ## 13
- (1) Giges obteve o reinado, confirmado pelo oráculo de Delfos.
+
+(1) Giges obteve o reinado, confirmado pelo oráculo de Delfos.
 Pois os lídios consideraram terrível o que sofrera Candaules e já
 estavam em armas mas chegara-se a um acordo entre os apoiadores de
 Giges e os demais lídios, de que se o oráculo o apontasse como rei dos
@@ -214,7 +227,8 @@ Heraclidas na quinta descendência de Giges. Ao conteúdo dessa fala nem
 os lídios nem os reis deram atenção alguma até que se tivesse cumprido.
 
 ## 14
- (1) Assim o reinado passou para os Mermnadas que o tomaram dos
+
+(1) Assim o reinado passou para os Mermnadas que o tomaram dos
 Heraclidas. E Giges, porque tornara-se o regente, enviou oferendas
 votivas a Delfos e não poucas, mas de todas as oferendas de prata em
 Delfos, a maioria é dele, e além da prata, dedicou um sem-fim de ouro,
@@ -234,14 +248,16 @@ seu reinado de trinta e oito anos, de modo que vamos nos omitir de
 mencioná-las.
 
 ## 15
- Já sobre o reinado posterior ao de Giges, o de Árdis, filho de
+
+Já sobre o reinado posterior ao de Giges, o de Árdis, filho de
 Giges, farei alguma menção. Ele tomou Priene e enviou expedições a
 Mileto e, durante sua regência de Sardes, os cimérios, expulsados de
 suas terras habituais pelos nômades citas, chegaram à Ásia e tomaram
 Sardes inteira salvo a acrópole.
 
 ## 16
- (1) Árdis reinou por quarenta e nove anos, sucedeu-lhe
+
+(1) Árdis reinou por quarenta e nove anos, sucedeu-lhe
 Sadiates, filho de Árdis, que reinou por vinte anos, e Aliates filho
 de Sadiates o sucedeu. Esse último guerreou contra Quiaxares,
 descentente de Deioces, e contra a Média e expulsou os cimérios da
@@ -252,7 +268,8 @@ ainda estes outros feitos que ele realizou enquanto no governo muito
 dignos de se relatar.
 
 ## 17
- (1) Guerreava contra Mileto porque herdara a guerra do pai.
+
+(1) Guerreava contra Mileto porque herdara a guerra do pai.
 Veja, a maneira com que invadia e fazia o cerco de Mileto era a
 seguinte: exatamente quando a plantação já estava pronta para a colheita
 nos campos, enviava a expedição, que marchava ao som de flautas de pan,
@@ -267,7 +284,8 @@ terra, e enquanto eles trabalhassem, ele teria algo para pilhar com as
 campanhas.
 
 ## 18
- (1) Assim guerreava durante onze anos, durante os quais os
+
+(1) Assim guerreava durante onze anos, durante os quais os
 milésios sofreram duas grandes derrotas quando batalharam em seu próprio
 território, uma no Limeneio e a outra na planície do Meandro. (2)
 Durante seis dos onze anos Sadiates filho de Árdis ainda era rei da
@@ -281,7 +299,8 @@ similar, porque os milésios anteriormente se envolveram na guerra dos
 Quios contra os Eritréios.
 
 ## 19
- (1) No décimo segundo ano, quando a colheita estava sendo
+
+(1) No décimo segundo ano, quando a colheita estava sendo
 incendiada pela campanha Lídia, ocorreu um problema: tão logo a
 colheita se incendiou, um vento forte fez incendiar o templo de Atena
 (conhecida por a Atena de Assesos). (2) Naquelas tantas, não se falou
@@ -293,7 +312,8 @@ chegaram, a Pítia lhes negou a consulta até que reerguessem o templo de
 Atena que haviam queimado em Assesos do território milésio.
 
 ## 20
- Eu sei que foi assim que as coisas ocorreram porque o ouvi da
+
+Eu sei que foi assim que as coisas ocorreram porque o ouvi da
 gente de Delfos. Os milésios acrescentam o seguinte: que Periandro,
 que era filho de Cípselo, era um estrangeiro bem cotado por Trasíbulo,
 então governante de Mileto e como ouvira falar do oráculo dado a
@@ -302,7 +322,8 @@ que, sabendo de antemão, pudesse decidir o que fazer em relação ao que
 vinha.
 
 ## 21
- (1) Isso é o que dizem os milésios. Enquanto isso, Aliates,
+
+(1) Isso é o que dizem os milésios. Enquanto isso, Aliates,
 assim que lhe foram passadas as notícias, enviou um emissário a Mileto
 pois desejava fazer um trato com Trasíbulo e com os milésios para o
 tempo durante o qual estivesse reconstruindo o templo. O embaixador
@@ -313,7 +334,8 @@ na ágora e ordenou aos milésios que, assim que ele desse o sinal, todos
 bebessem e fizessem uma folia entre eles.
 
 ## 22
- (1) Assim o fez e deu essa ordem pelo seguinte: o emissário de
+
+(1) Assim o fez e deu essa ordem pelo seguinte: o emissário de
 Sardes, quando visse a pilha imensa de comida despejada e os homens no
 bem bom, o reportaria a Aliates. E assim foi. O emissário viu isso
 tudo, reportou a Trasíbulo a mensagem do rei lídio e retornou a
@@ -327,7 +349,8 @@ dois templos a Atenas em Assesos e curou-se de sua doença. Assim foi a
 guerra de Aliates contra os milésios e Trasíbulo.
 
 ## 23
- Havia um tal Periandro, filho de Cípselo, aquele que deu
+
+Havia um tal Periandro, filho de Cípselo, aquele que deu
 notícia do oráculo a Trasíbulo, governante de Corinto. Os coríntios
 dizem --- e os lésbios confirmam --- que durante a vida dele algo bem
 surpreendente aconteceu: Arion de Metimna foi carregado por um
@@ -337,7 +360,8 @@ temos notícia a compor um ditirambo, e que aliás o nomeara, e o
 apresentara a Corinto.
 
 ## 24
- (1) Dizem que esse Arion, que passava a maior parte do seu tempo
+
+(1) Dizem que esse Arion, que passava a maior parte do seu tempo
 com Periandro, um dia decidiu ir à Itália e à Sicília. Depois de ter
 conseguido um monte de dinheiro, quis ir de volta para Corinto. (2)
 Zarpou de Tarento, onde, porque confiava apenas e tão somente em
@@ -369,7 +393,8 @@ lésbios, e hoje há uma estátua de bronze não muito grande dedicada a
 Arion em Tênaro, um homem montado sobre um golfinho.
 
 ## 25
- (1) O lídio Aliates tocou a guerra contra os milésios e depois
+
+(1) O lídio Aliates tocou a guerra contra os milésios e depois
 morreu, tendo reinado por cinquenta e sete anos. (2) Ele mesmo foi o
 segundo de sua casa a dedicar, porque escapara da doença, um grande vaso
 de prata em um suporte feito de ferro soldado, entre todas as
@@ -377,7 +402,8 @@ dedicatórias em Delfos algo digno de se ver, arte de Glauco de Quios,
 que entre todos homens fora quem descobriu a soldagem de ferro.
 
 ## 26
- (1) Depois que Aliates morreu, Creso, filho de Aliates, recebeu
+
+(1) Depois que Aliates morreu, Creso, filho de Aliates, recebeu
 o reinado, quando tinha trinta e cinco anos de idade, ele que foi o
 primeiro a atacar os efésios. Nessa ocasião, os efésios, estando sob o
 cerco dele, dedicaram a cidade a Ártemis, amarrando um fio do templo à
@@ -389,7 +415,8 @@ boa causa, justificava-se com uma boa causa, mas, quando não, ainda
 assim apresentava alguma ninharia.
 
 ## 27
- (1) Bom, quando todos os gregos da Ásia já estavam submetidos a
+
+(1) Bom, quando todos os gregos da Ásia já estavam submetidos a
 ele pelo pagamento de imposto, decidiu construir navios para lançar um
 ataque aos ilhéus. (2) Quando já estava tudo pronto para a construção
 naval, dizem que um certo Bias de Priene (outros dizem ter sido Pítaco
@@ -411,14 +438,16 @@ construção naval. E foi assim que estabeleceu uma relação de amizade com
 os jônios que moravam nas ilhas.
 
 ## 28
- Passado o tempo e submetidos quase todos os povos a oeste do
+
+Passado o tempo e submetidos quase todos os povos a oeste do
 Halis, salvo apenas os cilícios e lícios, todos os demais povos
 Creso tinha submetido a ele. Eram eles: lídios, frígios, mísios,
 mariandinos, calíbios, paflagônios, trácios da Tina e Bitínia, cários,
 jônios, dórios, eólios e panfílios.
 
 ## 29
- (1) Uma vez submetidos esses territórios e tendo Creso os
+
+(1) Uma vez submetidos esses territórios e tendo Creso os
 anexado à Lídia; em Sardes, que estava no auge de sua riqueza, chegava
 tudo quanto era sábio da Grécia que naquele tempo vivia. Toda hora
 chegava um deles, dentre os quais Sólon, o ateniense. Ele havia criado
@@ -431,7 +460,8 @@ quais viveriam por dez anos de acordo com quaisquer leis que Sólon
 tivesse instituído.
 
 ## 30
- (1) Por essas razões e para ver o mundo, Sólon viajou para longe
+
+(1) Por essas razões e para ver o mundo, Sólon viajou para longe
 de casa, indo até Amásis no Egito e então até Creso em Sardes.
 Quando chegou lá, foi hospedado por Creso na corte. Depois, no terceiro
 ou quatro dia, por ordem de Creso, os pagens levaram Sólon para uma
@@ -455,7 +485,8 @@ inimigo bater em retirada e morreu belamente. Os atenienses lhe deram um
 enterro público bem onde caíra e o honraram imensamente."
 
 ## 31
- (1) Como Sólon tinha atiçado Creso falando da variada fortuna
+
+(1) Como Sólon tinha atiçado Creso falando da variada fortuna
 de Télo, ele perguntou se acaso conheceria o segundo lugar depois dele,
 crente de que ao menos levaria o segundo lugar. (2) Ele respondeu:
 "Cleóbis e Bíton. Pois esses dois, que eram de origem Argiva, tinham
@@ -481,7 +512,8 @@ Argivos lhes fizeram estátuas as quais dedicaram em Delfos, porque
 tinham sido homens virtuosos."
 
 ## 32
- (1) Sólon concedeu a eles a segunda posição da boa fortuna, o
+
+(1) Sólon concedeu a eles a segunda posição da boa fortuna, o
 que fez Creso se irritar e dizer: "Estrangeiro ateniense! A nossa boa
 fortuna é rechaçada de tal maneira por você a ponto de você sequer nos
 tomar por dignos como homens comuns?" Ao que respondeu: "Creso, a mim,
@@ -518,17 +550,19 @@ tem a maioria é o melhor. Tal e qual é a pessoa humana. Não é em nada
 autossuficiente, mas tem algumas coisas e necessita de outras. (9) Quem
 quer que deles cruze a vida tendo a maioria das coisas e enfim chegue ao
 término da vida com boa graça, ele sim me parecerá, ó Rei, digno de
-levar esse nome. (...)
+levar esse nome. (…)
 
 ## 33
- (...) É preciso que se observe como chega o fim de todo evento,
+
+(…) É preciso que se observe como chega o fim de todo evento,
 pois a muita gente os deuses prometem a fortuna e depois lhes arrancam
 até a raiz." Nada disso agradou Creso, que lhe dispensou sem dar mais
 palavra a ele, certo de que ele era de todo um tolo, que ignorando as
 coisas boas presentes, mandava olhar para o fim de todo evento.
 
 ## 34
- (1) Depois que Sólon partiu, uma grande catástrofe vinda do deus
+
+(1) Depois que Sólon partiu, uma grande catástrofe vinda do deus
 tomou de assalto Creso --- ao que se pode imaginar --- porque se
 considerava ele mesmo o mais afortunado de todos os homens. Logo depois,
 desceu-lhe enquanto dormia um sonho que lhe mostrou a verdade dos males
@@ -545,7 +579,8 @@ retiradas da casinha dos homens e guardada em quartos, não fosse algo
 pendurado cair em seu filho.
 
 ## 35
- (1) Enquanto estava ocupado com os preparos do casamento do
+
+(1) Enquanto estava ocupado com os preparos do casamento do
 filho, chegou a Sardes um homem marcado pelo infortúnio e não
 purificado de um assassinato, homem de nacionalidade Frígia e de
 família real. Assim que chegou, foi até a moradia de Creso, pediu-lhe
@@ -563,7 +598,8 @@ qualquer preocupação ficando em nossa casa. Quanto àquele infortúnio,
 você tirará mais proveito se levá-lo o mais levemente o possível."
 
 ## 36
- (1) Adrasto passou a viver na casa de Creso. Nessa época, um
+
+(1) Adrasto passou a viver na casa de Creso. Nessa época, um
 javali imenso, coisa impressionante, apareceu no monte Olimpo da Mísia.
 Ele tinha descido daquela montanha e estava destruindo os campos dos
 Mísios. Diversas vezes os Mísios avançaram contra ele sem conseguir lhe
@@ -581,7 +617,8 @@ todos que forem de serem extremamente empenhados em junto a vocês
 expulsar a criatura da terra."
 
 ## 37
- (1) Assim respondeu. Os Mísios se deram por satisfeitos, mas o
+
+(1) Assim respondeu. Os Mísios se deram por satisfeitos, mas o
 filho de Creso, que ouvira o que os Mísios pediram, entrou. Porque
 Creso disse que não enviaria seu filho para eles, o jovem lhe disse o
 seguinte: (2) "Pai, antigamente era extremamente belo e digno de honra
@@ -595,7 +632,8 @@ você me envia agora contra a fera ou me convença com razões de que com
 isso você faz o melhor para mim."
 
 ## 38
- (1) Creso respondeu: "Filho, não é porque vi em você covardia ou
+
+(1) Creso respondeu: "Filho, não é porque vi em você covardia ou
 falta de alguma outra qualidade que faço isso, mas porque a mim desceu a
 visão de um sonho quando dormia que me disse que você viveria pouco
 tempo pois morreria por uma lança de ferro. (2) Foi por causa dessa
@@ -605,7 +643,8 @@ morte. Afinal, você é meu único filho, já que o outro, sendo deficiente
 de audição, eu sequer considero existir."
 
 ## 39
- (1) O jovem disse o seguinte: "Pai, você tem uma justificativa,
+
+(1) O jovem disse o seguinte: "Pai, você tem uma justificativa,
 tendo visto uma tal visão, para me manter sob guarda. Mas aquilo que
 você não entendeu e que lhe passou batido, é meu direito explicar. (2)
 Você diz que o sonho lhe mostrou que eu chegaria ao meu fim por causa de
@@ -616,12 +655,14 @@ necessário que você fizesse o que faz. No entanto seria por causa de uma
 lança: já que não teremos uma luta contra homens, me envie!"
 
 ## 40
- Creso responde: "Filho, você me venceu mostrando sua
+
+Creso responde: "Filho, você me venceu mostrando sua
 interpretação do sonho. Já que fui vencido por você, mudo de ideia e lhe
 permito ir para a caça."
 
 ## 41
- (1) Depois que Creso disse isso, mandou chamar o frígio
+
+(1) Depois que Creso disse isso, mandou chamar o frígio
 Adrasto, a quem ao chegar disse: "Adrasto, quando você foi acometido
 por uma horrível desgraça, da qual eu não lhe culpo, fui eu quem lhe
 purificou e recebi em casa, provendo-lhe de todas as despesas. (2)
@@ -633,7 +674,8 @@ seus feitos e porque também você é digno de ser filho do seu pai e tem
 força o suficiente."
 
 ## 42
- (1) Respondeu Adrasto: "Rei, fosse outra circunstância eu não
+
+(1) Respondeu Adrasto: "Rei, fosse outra circunstância eu não
 iria para uma empreitada dessas, já que nem tenho o tipo de sorte para
 ser razoável que eu vá junto de camaradas bem-aventurados e nem é do meu
 interesse, por razões várias que guardo para mim. (2) Agora, já que você
@@ -643,7 +685,8 @@ você me ordena proteger, espera que voltará até você incólume no que
 depender de seu segurança.
 
 ## 43
- (1) Assim ele respondeu a Creso e depois disso partiram
+
+(1) Assim ele respondeu a Creso e depois disso partiram
 acompanhados de jovens escolhidos a dedo e cães. Quando chegaram ao
 monte Olimpo, procuraram pela criatura, encontraram-na, envolveram-na
 numa roda e atiraram as lanças. (2) Nisso, o hóspede, aquele que tinha
@@ -654,17 +697,19 @@ dar a notícia do acontecimento a Creso e, quando chegou a Sardes,
 contou-lhe a luta e o destino do filho.
 
 ## 44
- (1) Embora muito abalado com a morte do filho, Creso sobretudo
+
+(1) Embora muito abalado com a morte do filho, Creso sobretudo
 se indignou porque matara-lhe aquele que ele mesmo tinha purificado do
 assassinato. (2) Enojado com o infortúnio clamou terrivelmente por Zeus
-*Purificador*, pedindo testemunho do quanto tinha sofrido pela mão do
-hóspede, chamava o mesmo deus pelos nomes de *do Lar* e *Companheiro*.
-Chamava-o por *do Lar* porque havia recebido o estrangeiro e sem ver
-nutria o assassino de seu filho; chama-o por *Companheiro* como o havia
+_Purificador_, pedindo testemunho do quanto tinha sofrido pela mão do
+hóspede, chamava o mesmo deus pelos nomes de _do Lar_ e _Companheiro_.
+Chamava-o por _do Lar_ porque havia recebido o estrangeiro e sem ver
+nutria o assassino de seu filho; chama-o por _Companheiro_ como o havia
 enviado de guardião aquele que descobriria ser o maior oponente.
 
 ## 45
- (1) Chegaram depois disso os lídios carregando o cadáver, atrás
+
+(1) Chegaram depois disso os lídios carregando o cadáver, atrás
 deles seguia o assassino. Ele estava em pé frente ao cadáver quando se
 ofereceu à Creso, estendendo-lhe os braços, mandando imolá-lo sobre o
 cadáver, falando de seu primeiro infortúnio, que tinha desgraçado a vida
@@ -682,7 +727,8 @@ volta da tumba, percebendo-se o homem que carregava as maiores dores
 entre aqueles que conhecia, imolou-se a si próprio sobre a tumba.
 
 ## 46
- (1) Creso manteve-se quieto por dois anos em imensa dor, tolhido
+
+(1) Creso manteve-se quieto por dois anos em imensa dor, tolhido
 do filho. Depois disso, o fato de que o controle exercido por Astiages
 filho de Quiaxares fora tomado por Ciro filho de Cambises e que a
 presença dos persas crescia interrompeu o luto de Creso e ele se pôs a
@@ -700,7 +746,8 @@ enviasse-lhes então uma segunda consulta para perguntar se deveria se
 dedicar a atacar os persas.
 
 ## 47
- (1) Ele enviou os lídios para sondar os oráculo dando as
+
+(1) Ele enviou os lídios para sondar os oráculo dando as
 seguintes ordens. A partir do dia que começassem a viagem de Sardes,
 contassem o tempo que passava até o centésimo dia, quando deviam
 consultar o oráculo perguntando-lhe o que havia de estar fazendo Creso,
@@ -718,7 +765,8 @@ seguinte em versos hexamétricos: (3)
 > por debaixo da qual o bronze jaz e a qual está sobre o bronze.
 
 ## 48
- (1) Os lídios anotaram o que a Pítia profetizara e foram embora
+
+(1) Os lídios anotaram o que a Pítia profetizara e foram embora
 para Sardes. Quando cada um daqueles que haviam sido enviados chegou
 trazendo os oráculos, Creso ia desenrolando e examinando cada uma das
 anotações. Mas nenhuma delas o interessava, até que ele escutou o que
@@ -732,14 +780,16 @@ juntos, colocando-os em uma panela de bronze e cobrindo-a com uma tampa
 de bronze.
 
 ## 49
- Isso foi o que foi profetizado a Creso pelo oráculo de Delfos.
+
+Isso foi o que foi profetizado a Creso pelo oráculo de Delfos.
 Sobre a resposta dada pelo oráculo de Anfiarau eu não tenho como falar
 o que foi revelado aos lídios que haviam feito as coisas costumeiras de
 templo (porque nada nunca foi dito sobre isso), se não que o rei também
 considerou que esse era um oráculo que oferecera algo verdadeiro.
 
 ## 50
- (1) Depois disso, tentava agradar o deus de Delfos com grandes
+
+(1) Depois disso, tentava agradar o deus de Delfos com grandes
 sacrifícios. Sacrificou três milhares inteiros de rebanhos próprios para
 sacrifícios e queimou em uma pira imensa um amontoado de colchões
 cobertos de ouro e de prata e taças douradas e vestes e túnicas
@@ -758,7 +808,8 @@ coríntios, pesando um total de seis talentos e meio, porque três
 talentos e meio dele derreteram.
 
 ## 51
- (1) Creso deu ordens de enviar essas coisas a Delfos, incluindo
+
+(1) Creso deu ordens de enviar essas coisas a Delfos, incluindo
 também o seguinte: duas crateras de tamanho imenso, uma de ouro e a
 outra de prata, das quais a dourada está ao lado direito da entrada do
 templo e a prateada do lado esquerdo. (2) Elas também foram levadas
@@ -783,14 +834,16 @@ de Creso. Além disso tudo, Creso dedicou o colar e as faixas de sua
 própria esposa.
 
 ## 52
- Isso tudo foi o que enviou a Delfos, enquanto ao oráculo de
+
+Isso tudo foi o que enviou a Delfos, enquanto ao oráculo de
 Anfiarau, ao saber por ele de sua virtude e sua sorte, dedicou um
 escudo inteiro de ouro e uma lança inteira de ouro maciço, o cabo sendo
 de ouro tal como a ponta. Ambos ficavam no meu tempo em Tebas no templo
 de Apolo Ismênio dos Tebanos.
 
 ## 53
- (1) Aos lídios responsáveis por levar os tais presentes aos
+
+(1) Aos lídios responsáveis por levar os tais presentes aos
 templos, Creso ordenou que perguntassem aos oráculos se Creso devia
 enviar expedições contra os persas e com qual exército de homens ele
 deveria se associar como amigo. (2) Quando chegaram a onde foram
@@ -806,7 +859,8 @@ reinado e lhe aconselharam se associar em amizade com aqueles que
 descobrisse serem os mais poderosos dos gregos.
 
 ## 54
- (1) Em seguida, Creso tomou conhecimento das profecias quando
+
+(1) Em seguida, Creso tomou conhecimento das profecias quando
 lhe foram relatadas e muito se alegrou com os oráculos, cheio de
 esperanças de que derrubaria o reinado de Ciro. Enviou então novamente
 presentes a Delfos em Pito: descobriu quantos eram os délficos e
@@ -817,7 +871,8 @@ eventos, além de concederem a possibilidade de se obter a cidadania
 délfica permanente a quem entre eles desejasse.
 
 ## 55
- (1) Depois de presentear os délficos, Creso fez uma terceira
+
+(1) Depois de presentear os délficos, Creso fez uma terceira
 consulta, afinal, depois que recebera a resposta verdadeira do oráculo,
 passou a abusar dele. Dessa vez, perguntou em sua consulta se sua
 monarquia duraria muitos anos. (2) A Pítia respondeu-lhe:
@@ -827,7 +882,8 @@ monarquia duraria muitos anos. (2) A Pítia respondeu-lhe:
 > fuja, fuja e não fiques, nem te envergonhes por seres vil.
 
 ## 56
- (1) Creso alegrou-se com a chagada dessas palavras mais do que
+
+(1) Creso alegrou-se com a chagada dessas palavras mais do que
 com tudo mais, porque esperava que jamais uma mula reinaria sobre os
 Medos no lugar de um homem e que assim ele e sua descendência jamais
 sairiam do poder. Então passou a dedicar-se a investigar qual dos
@@ -842,5 +898,3 @@ junto ao monte Ossa e ao monte Olimpo, chamada de Histiótida. Quando
 foram expulsos por Cadmo de Histiótida, passaram a habitar o monte
 Pindo. Então novamente mudaram-se para Druópida e da Druópida chegaram
 enfim para o Peloponeso e foram chamados dóricos.
-
-

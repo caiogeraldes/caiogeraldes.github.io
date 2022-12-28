@@ -19,7 +19,7 @@ Boa sorte.
 
 O texto aqui segue a edição de Van Nooten e Holland, com as vogais reconstituídas em subscrito.
 O devanāgarī segue as edições disponíveis no [VedaWeb](https://vedaweb.uni-koeln.de/).
-`EWA` significa *Mayrhofer, Manfred. 1992–2001. Etymologisches Wörterbuch des Altindoarischen. 3 Vols. Heidelberg: Winter Verlag*.[^1]
+`EWA` significa _Mayrhofer, Manfred. 1992–2001. Etymologisches Wörterbuch des Altindoarischen. 3 Vols. Heidelberg: Winter Verlag_.[^1]
 
 # Texto em devanāgarī
 
@@ -53,50 +53,49 @@ Eu gosto.
 > स नः॑ पि॒तेव॑ सू॒नवे ऽग्ने॑ सूपाय॒नो भ॑व ।
 > सच॑स्वा नः स्व॒स्तये॑ ॥ ९ ॥
 
-
-
 # Texto romanizado
 
->	agním īḷe puróhitaṃ́
-	yajñásya devám r̥tvíjam |\
-	hótāraṃ ratnadhā́tamam ||1||\
+>     agním īḷe puróhitaṃ́
+
+    yajñásya devám r̥tvíjam |\
+    hótāraṃ ratnadhā́tamam ||1||\
     \
-	agníḥ pū́rvebhir ŕ̥ṣibhir
-	ī́ḷᵢyo nū́tanair utá |\
-	sá devā́m̐ éhá vakṣati ||2||\
+    agníḥ pū́rvebhir ŕ̥ṣibhir
+    ī́ḷᵢyo nū́tanair utá |\
+    sá devā́m̐ éhá vakṣati ||2||\
     \
-	agnínā rayím aśnavat
-	póṣam evá divédive |\
-	yaśásaṃ vīrávattamam ||3||\
+    agnínā rayím aśnavat
+    póṣam evá divédive |\
+    yaśásaṃ vīrávattamam ||3||\
     \
-	ágne yáṃ yajñám adhvaráṃ
-	viśvátaḥ paribhū́r ási |\
-	sá íd devéṣu gacchati ||4||\
+    ágne yáṃ yajñám adhvaráṃ
+    viśvátaḥ paribhū́r ási |\
+    sá íd devéṣu gacchati ||4||\
     \
-	agnír hótā kavíkratuḥ
-	satyáś citráśravastamaḥ |\
-	devó devébhir ā́ gamat ||5||\
+    agnír hótā kavíkratuḥ
+    satyáś citráśravastamaḥ |\
+    devó devébhir ā́ gamat ||5||\
     \
-	yád aṅgá dāśúṣe tuvám
-	ágne bhadráṃ kariṣyási |\
-	távét tát satyám aṅgiraḥ ||6||\
+    yád aṅgá dāśúṣe tuvám
+    ágne bhadráṃ kariṣyási |\
+    távét tát satyám aṅgiraḥ ||6||\
     \
-	úpa tvāgne divédive
-	dóṣāvastar dhiyā́ vayám |\
-	námo bháranta émasi ||7||\
+    úpa tvāgne divédive
+    dóṣāvastar dhiyā́ vayám |\
+    námo bháranta émasi ||7||\
     \
-	rā́jantam adhvarā́nāṃ gopā́m
-	r̥tásya dī́divim |\
-	várdhamānaṃ sᵤvé dáme ||8||\
+    rā́jantam adhvarā́nāṃ gopā́m
+    r̥tásya dī́divim |\
+    várdhamānaṃ sᵤvé dáme ||8||\
     \
-	sá naḥ pitéva sūnáve
-	ₐ́gne sūpāyanó bhava |\
-	sácasvā naḥ sᵤvastáye ||9||
+    sá naḥ pitéva sūnáve
+    ₐ́gne sūpāyanó bhava |\
+    sácasvā naḥ sᵤvastáye ||9||
 
 # Rascunho de tradução
 
+> Invoco Agni, que é posto a frente, deus realizador do sacrifício,\
 
->   Invoco Agni, que é posto a frente, deus realizador do sacrifício,\
     ministrante ofertador das maiores dádivas. ||1||\
     \
     Agni que há de ser invocado pelos sábios de outrora, pelos de hoje:\
@@ -125,279 +124,281 @@ Eu gosto.
 
 # Comentários
 
-## Estrofe 1:
+## Estrofe 1
 
-- *īḷe*: Verbo médio īḍ "implorar, invocar".
-MacDonell traduz por "*magnify*", em nota Geldner coloca como sinônimo em certas ocasiões *hve* no sentido de "*anrufen, berufen*"; ambos contrapostos a *śru* "*hören*".
-Essa opção é seguida por Renou, Gotō e Witzel, Macedo e Jamison e Breton; sandhi interno ḍ \> ḷ entre vogais que apenas acontece em védico. Notar a grafia de: ईड्यो॒ 
- Estrofe 2; verbos em orações principais não são acentuados.
+- _īḷe_: Verbo médio īḍ "implorar, invocar".
+  MacDonell traduz por "_magnify_", em nota Geldner coloca como sinônimo em certas ocasiões _hve_ no sentido de "_anrufen, berufen_"; ambos contrapostos a _śru_ "_hören_".
+  Essa opção é seguida por Renou, Gotō e Witzel, Macedo e Jamison e Breton; sandhi interno ḍ \> ḷ entre vogais que apenas acontece em védico. Notar a grafia de: ईड्यो॒
+   Estrofe 2; verbos em orações principais não são acentuados.
 
-- *īḍ*: *EWA* 1 p.204 *\*(h₂i)-h₂isd-*; cf. gr. αἴδομαι, got. *aistand*.
+- _īḍ_: _EWA_ 1 p.204 _\*(h₂i)-h₂isd-_; cf. gr. αἴδομαι, got. _aistand_.
 
-- *puróhitam*: composto de *purás* "frente, dianteira" e do PPP *hitá-* (\< *\*dʰh₂-to-*).
+- _puróhitam_: composto de _purás_ "frente, dianteira" e do PPP _hitá-_ (\< _\*dʰh₂-to-_).
 
-- *yajñásya* (\...) *r̥tvíjam*: leem-se em conjunto; genitivos costumam preceder aquilo que modificam (Macdonell §191e).
+- _yajñásya_ (\…) _r̥tvíjam_: leem-se em conjunto; genitivos costumam preceder aquilo que modificam (Macdonell §191e).
 
-- *r̥tvíjam*: composto do nome *r̥tú-* "momento definido, período" e o grau
-zero *ij-* da raiz *yaj-* "sacrificar", mesma de *yajñá-* acima.
+- _r̥tvíjam_: composto do nome _r̥tú-_ "momento definido, período" e o grau
+  zero _ij-_ da raiz _yaj-_ "sacrificar", mesma de _yajñá-_ acima.
 
-- *r̥tú*: *EWA* 1 p.257 *\*h₂ér-tu-s / \*h₂r̥-téu̯-s* (gen.sg.); av. *ratu*
-"período de tempo; julgamento", *raθβiia vača* "palavra dita na hora
-certa"; gr. ἀρτύς· σύνταξις, (Hes.),
-ἀρτύω "preparar, arranjar, temperar"; arm. *ard / ardw*
-(gen.) "ordem", lat. *artus* "articulação, membro"; *vide* r̥tá; a forma
-védica não apresenta apofonia e parece ter sido reformada a partir da
-formação que apresenta nos temas oblíquos.
+- _r̥tú_: _EWA_ 1 p.257 _\*h₂ér-tu-s / \*h₂r̥-téu̯-s_ (gen.sg.); av. _ratu_
+  "período de tempo; julgamento", _raθβiia vača_ "palavra dita na hora
+  certa"; gr. ἀρτύς· σύνταξις, (Hes.),
+  ἀρτύω "preparar, arranjar, temperar"; arm. _ard / ardw_
+  (gen.) "ordem", lat. _artus_ "articulação, membro"; _vide_ r̥tá; a forma
+  védica não apresenta apofonia e parece ter sido reformada a partir da
+  formação que apresenta nos temas oblíquos.
 
-- *-ij; yajñá*: *EWA* 2 p.392--4 *\*Hi̯ag̑-no* av. *yasna*; gr.
-ἁγνός "puro".
+- _-ij; yajñá_: _EWA_ 2 p.392--4 _\*Hi̯ag̑-no_ av. _yasna_; gr.
+  ἁγνός "puro".
 
-- *hótāram*: nome de agente da raiz *hu* "sacrificar, ministrar ritual" em
-*-tr̥* (Whitney §369-76; Macdonell §101).
+- _hótāram_: nome de agente da raiz _hu_ "sacrificar, ministrar ritual" em
+  _-tr̥_ (Whitney §369-76; Macdonell §101).
 
-- *hótr̥*: *EWA* 2 p.808--9,812 *\*g̑ʰeu̯-ter*; av. *zaotar*, gr.
-χέ(ϝ)ω "derramar".
+- _hótr̥_: _EWA_ 2 p.808--9,812 _\*g̑ʰeu̯-ter_; av. _zaotar_, gr.
+  χέ(ϝ)ω "derramar".
 
-- *ratnadhā́tamam*: superlativo de *ratnadhā́-*: "dador de bens".
+- _ratnadhā́tamam_: superlativo de _ratnadhā́-_: "dador de bens".
 
-## Estrofe 2:
+## Estrofe 2
 
-- *Primeiro pada*: o primeiro pada tem cadência irregular de acordo com
-Van Nooten e Holland p.577: ⏑ ⏑ ⏑ ⏑.
+- _Primeiro pada_: o primeiro pada tem cadência irregular de acordo com
+  Van Nooten e Holland p.577: ⏑ ⏑ ⏑ ⏑.
 
-- *pū́rvebhir* *ŕ̥ṣibhir* (\...) *nū́tanair utá*: tanto o adjetivo *pū́rvebhir* quanto *nū́tanair* modificam o nome *ŕ̥ṣibhis*, coordenados por *utá*; duas marcações distintas para instrumentais plurais co-ocorrem em versos adjacentes, i.e.: *-bhir* e *-air*.
+- _pū́rvebhir_ _ŕ̥ṣibhir_ (\…) _nū́tanair utá_: tanto o adjetivo _pū́rvebhir_ quanto _nū́tanair_ modificam o nome _ŕ̥ṣibhis_, coordenados por _utá_; duas marcações distintas para instrumentais plurais co-ocorrem em versos adjacentes, i.e.: _-bhir_ e _-air_.
 
-- *ŕ̥ṣi*: *EWA* 1 p.261 av. *ərəšiia* "*gottbegeistert*" e *ərəšiš* "*Gottesbegeisterter*".
+- _ŕ̥ṣi_: _EWA_ 1 p.261 av. _ərəšiia_ "_gottbegeistert_" e _ərəšiš_ "_Gottesbegeisterter_".
 
-- *ī́ḷᵢyo*: adjetivo verbal *īḍyas* "que deve ser louvado" formado a
-partir de *īḍ* + *ya*; pela posição no verbo, a sílaba /dya/ se
-pronuncia como /dᵢya/. Sobre grafia e transcrição, ver Estrofe 1.
+- _ī́ḷᵢyo_: adjetivo verbal _īḍyas_ "que deve ser louvado" formado a
+  partir de _īḍ_ + _ya_; pela posição no verbo, a sílaba /dya/ se
+  pronuncia como /dᵢya/. Sobre grafia e transcrição, ver Estrofe 1.
 
-- *éhá*: o texto em pada analisa: आ । इ॒ह : *ā ihá*.
+- _éhá_: o texto em pada analisa: आ । इ॒ह : _ā ihá_.
 
-- *ihá*: "aqui".
+- _ihá_: "aqui".
 
-- *ā́*: preposição/prevérbio que vai com *vakṣati*; os manuscritos
-frequentemente separam prevérbio e verbo *vide* grafia de आ गमत् : *ā́ gamat* "que venha" Estrofe 5.
+- _ā́_: preposição/prevérbio que vai com _vakṣati_; os manuscritos
+  frequentemente separam prevérbio e verbo _vide_ grafia de आ गमत् : _ā́ gamat_ "que venha" Estrofe 5.
 
-- *vakṣati*: subjuntivo aoristo de *vah* "conduzir" (*vah-s-a-ti*).
+- _vakṣati_: subjuntivo aoristo de _vah_ "conduzir" (_vah-s-a-ti_).
 
-- *vah-*: *EWA* 2 p.535--7 *\*u̯eg̑ʰ-*; provavelmente proto-indo-iraniana, pela atestação no Texto de Kikkuli *u̯a-ša-an-na-ša-i̯a* "hipódromo" \< *\*u̯azʰanasi̯a*. Cognatos: av. *vaziiamna* "que se leva (para casar)", *frauuazah-* "que conduz rápido"; gr.pamph. ϝεχετω "que ele conduza", gr. ὄχος "carruagem"; lat. *uehō / uēxī*.
+- _vah-_: _EWA_ 2 p.535--7 _\*u̯eg̑ʰ-_; provavelmente proto-indo-iraniana, pela atestação no Texto de Kikkuli _u̯a-ša-an-na-ša-i̯a_ "hipódromo" \< _\*u̯azʰanasi̯a_. Cognatos: av. _vaziiamna_ "que se leva (para casar)", _frauuazah-_ "que conduz rápido"; gr.pamph. ϝεχετω "que ele conduza", gr. ὄχος "carruagem"; lat. _uehō / uēxī_.
 
-## Estrofe 3:
+## Estrofe 3
 
-- *aśnavat* subjuntivo presente de *aṃś* "obter" (*aś-na-u̯ -a-t*, indicativo *aśnoti*, raiz terminada em *u̯*  com presente de infixo nasal \**-ne-/-n-*; no entanto problemática); 3ª pessoa genérica "que alguém obtenha; que se obtenha".
+- _aśnavat_ subjuntivo presente de _aṃś_ "obter" (_aś-na-u̯ -a-t_, indicativo _aśnoti_, raiz terminada em _u̯_  com presente de infixo nasal \*_-ne-/-n-_; no entanto problemática); 3ª pessoa genérica "que alguém obtenha; que se obtenha".
 
-- *yaśásaṃ* acusativo do adjetivo com tem em -as- yaśás "glorioso,
-honrável".
+- _yaśásaṃ_ acusativo do adjetivo com tem em -as- yaśás "glorioso,
+  honrável".
 
-- *vīrávattamam*: superlativo de *vīrá-vat* "que tem varões"; *-van*/*-vat* é sufixo importante para formar essa noção de "o que tem X".
+- _vīrávattamam_: superlativo de _vīrá-vat_ "que tem varões"; _-van_/_-vat_ é sufixo importante para formar essa noção de "o que tem X".
 
-## Estrofe 4:
+## Estrofe 4
 
-- *ágne*: vocativo de Agni; acentuado pela posição inicial no pāda.
+- _ágne_: vocativo de Agni; acentuado pela posição inicial no pāda.
 
-- *yajñám adhvaráṃ*: coordenação assindética.
+- _yajñám adhvaráṃ_: coordenação assindética.
 
-- *adhvará*: *EWA* 1 p.68 talvez um heteroclítico tematizado, vide *ádhvan*; *\*h₁n̥dʰ-u̯en/r*, cf. gr. ἐνθεῖν \< *\*h₁n̥dʰ-e/o-*.
+- _adhvará_: _EWA_ 1 p.68 talvez um heteroclítico tematizado, vide _ádhvan_; _\*h₁n̥dʰ-u̯en/r_, cf. gr. ἐνθεῖν \< _\*h₁n̥dʰ-e/o-_.
 
-- *viśvátaḥ*: advérbio em *-tas*; sufixo ligado a sentido adverbial
-ablativo ex.: *kútas* "de onde?" (Whitney §1098; Macdonell §
-179.2).
+- _viśvátaḥ_: advérbio em _-tas_; sufixo ligado a sentido adverbial
+  ablativo ex.: _kútas_ "de onde?" (Whitney §1098; Macdonell §
+  179.2).
 
-- *viśvá*: *EWA* 2 p.562--3 *u̯ik̑-u̯ó*; av. *vispā*, pa. *visa*; lit.
-*visas*.
+- _viśvá_: _EWA_ 2 p.562--3 _u̯ik̑-u̯ó_; av. _vispā_, pa. _visa_; lit.
+  _visas_.
 
-- *paribhū́r*: adjetivo feito diretamente da raiz verbal.
+- _paribhū́r_: adjetivo feito diretamente da raiz verbal.
 
-- *ási*: verbos principais de subordinadas recebem acento; acento de
-verbos da 2 classe caem na raiz nos temas fortes (1ª, 2ª e 3ª do
-singular) e na desinência nos demais casos (Whitney §612; Macdonell
-§127.1).
+- _ási_: verbos principais de subordinadas recebem acento; acento de
+  verbos da 2 classe caem na raiz nos temas fortes (1ª, 2ª e 3ª do
+  singular) e na desinência nos demais casos (Whitney §612; Macdonell
+  §127.1).
 
-- *devéṣu gacchati*: verbo de movimento + locativo: "*place that is
-reached*" (MacDonell §204b); Whitney diz:
+- _devéṣu gacchati_: verbo de movimento + locativo: "_place that is
+  reached_" (MacDonell §204b); Whitney diz:
 
-> "*It is by no means to be sharply distinguished from the ordinary
-construction*[^3]; *the two pass into one another, with a doubtful
-territory in between. It occurs: **a.** Especially with verbs, as
-arriving, sending, placing, communicating, bestowing, and many others*
-(\...)"
+> "_It is by no means to be sharply distinguished from the ordinary
+> construction_[^3]; _the two pass into one another, with a doubtful
+> territory in between. It occurs: **a.** Especially with verbs, as
+> arriving, sending, placing, communicating, bestowing, and many others_
+> (\…)"
 
-- *gaccha-*: *\*gʷm̥-sk̑e/o*; gr. βάσκω; geralmente com outras formações, especialmente *\*gʷm̥-i̯e/o-* como gr. βαίνω e lat. *uenio*.
+- _gaccha-_: _\*gʷm̥-sk̑e/o_; gr. βάσκω; geralmente com outras formações, especialmente _\*gʷm̥-i̯e/o-_ como gr. βαίνω e lat. _uenio_.
 
-## Estrofe 5:
+## Estrofe 5
 
-*kavíkratuḥ*: composto de *kavi* e *kratu*; traduções: "of wise
+_kavíkratuḥ_: composto de _kavi_ e _kratu_; traduções: "of wise
 intelligence" Macdonell, "with poet's purpose" Jamison e Brereton, "que
 possui a força espiritual de um poeta" Macedo;
 
-*kaví*: *EWA* 1 p.328--9; avj. *kauui* usado na formação de nomes de
-príncipes; relacionado a lyd. *kave* e gr. κοίης· ἱερεὺς
-Καβείρων Hes; possivelmente de uma raiz KAV (*EWA* 1 p.328)
+_kaví_: _EWA_ 1 p.328--9; avj. _kauui_ usado na formação de nomes de
+príncipes; relacionado a lyd. _kave_ e gr. κοίης· ἱερεὺς
+Καβείρων Hes; possivelmente de uma raiz KAV (_EWA_ 1 p.328)
 e por isso talvez relacionado a gr. κοέω "perceber, ouvir",
-lat. *cauēo* "tomar conta";
+lat. _cauēo_ "tomar conta";
 
-*krátu*: *EWA* 1 p.407--8 *\*krétu/kr̥tú/kr̥tu̯-*; av. *xratu*; com fraseologias conservadas, como em:
+_krátu_: _EWA_ 1 p.407--8 _\*krétu/kr̥tú/kr̥tu̯-_; av. _xratu_; com fraseologias conservadas, como em:
 
->   xratɘ̄uš manaŋhascā (ava. Y46,18)\
+> xratɘ̄uš manaŋhascā (ava. Y46,18)\
+
     krátvā mánasā (RV passim.)
 
->   hačaite \... xratuš (avj. passim.)\
+> hačaite \… xratuš (avj. passim.)\
+
     krátvā sacate (RV passim.)
 
 Também há gr. κρατύς (daí κράτος, ion. κάρτος, ael. κρέτος).
 
-- *satyá*: *EWA* 2 p.690--1 *\*h₁sn̥t-i̯o* av. *haiθiia*; pa. *hašiyam*.
+- _satyá_: _EWA_ 2 p.690--1 _\*h₁sn̥t-i̯o_ av. _haiθiia_; pa. _hašiyam_.
 
-- *citráśravastamaḥ*: superlativo de *citráśravas-* "que tem a glória
-brilhante", notar que a presença de -tama não interfere na acentuação.
+- _citráśravastamaḥ_: superlativo de _citráśravas-_ "que tem a glória
+  brilhante", notar que a presença de -tama não interfere na acentuação.
 
-- *śrávas*: *EWA* 2 p.667-8 *\*k̑léu̯es-*; ava. *srauuah-* "glória", avj.
-*idem* "proclamação", pa. *-çavah-* na formação de nomes (ex. Uçava
-$\simeq$ ved. Suśrávas); gr. κλέος, phoc.
-κλέϝος, mic. *ke-re-we*; ira. *clū*, ocs. *slovo*[^4];
-illyr. *-cleves*, toch. A *klyu*, B *kälywe* "reputação / fama".
+- _śrávas_: _EWA_ 2 p.667-8 _\*k̑léu̯es-_; ava. _srauuah-_ "glória", avj.
+  _idem_ "proclamação", pa. _-çavah-_ na formação de nomes (ex. Uçava
+  $\simeq$ ved. Suśrávas); gr. κλέος, phoc.
+  κλέϝος, mic. _ke-re-we_; ira. _clū_, ocs. _slovo_[^4];
+  illyr. _-cleves_, toch. A _klyu_, B _kälywe_ "reputação / fama".
 
-- *ā́ gamat*: subjuntivo aoristo do verbo *ā́ gam* "chegar" (gam-a-t); mesmo
-estando adjacentes, o prevérbio e verbo não são univerbados na grafia;
-Jamison e Brereton p.89 traduzem por "will come as god with the gods".
+- _ā́ gamat_: subjuntivo aoristo do verbo _ā́ gam_ "chegar" (gam-a-t); mesmo
+  estando adjacentes, o prevérbio e verbo não são univerbados na grafia;
+  Jamison e Brereton p.89 traduzem por "will come as god with the gods".
 
-## Estrofe 6:
+## Estrofe 6
 
-- *yád aṅgá* (\...) *bhadráṃ*: "exatamente aquele bem que" Macdonell 1993 p.213[^5].
+- _yád aṅgá_ (\…) _bhadráṃ_: "exatamente aquele bem que" Macdonell 1993 p.213[^5].
 
-- *dāśúṣe*: dativo do particípio perfeito ativo sem redobro *dāśvāṃs* "aquele que venera" (são poucos os particípios perfeitos ativos não redobrados em védico); sobre o particípio em *vāṃs*, ver Whitney §458-62 e Macdonell §89, 157a.
+- _dāśúṣe_: dativo do particípio perfeito ativo sem redobro _dāśvāṃs_ "aquele que venera" (são poucos os particípios perfeitos ativos não redobrados em védico); sobre o particípio em _vāṃs_, ver Whitney §458-62 e Macdonell §89, 157a.
 
-- *dāś-*: *EWA* 1 p.722--3 *\*dek̑-* ava. *dasɘma* "homenagem", avj.
-*dasma* *idem*; gr. δέχομαι, δέκομαι etc..
+- _dāś-_: _EWA_ 1 p.722--3 _\*dek̑-_ ava. _dasɘma_ "homenagem", avj.
+  _dasma_ _idem_; gr. δέχομαι, δέκομαι etc..
 
-- *tᵤvám*: dissolução métrica da sequência /tu̯a/ em /tuu̯a/.
+- _tᵤvám_: dissolução métrica da sequência /tu̯a/ em /tuu̯a/.
 
-- *kariṣyási*: futuro do verbo *kr̥* "fazer" com valor desiderativo; acento de formas futuras em *-s* cai na marca de futuro *syá* (Whitney §932; Macdonell §III 12e).
+- _kariṣyási_: futuro do verbo _kr̥_ "fazer" com valor desiderativo; acento de formas futuras em _-s_ cai na marca de futuro _syá_ (Whitney §932; Macdonell §III 12e).
 
-- *távét*: o texto em pada analisa: तव॑ । इत्  : *táva ít*.
+- _távét_: o texto em pada analisa: तव॑ । इत्  : _táva ít_.
 
-- *tát*: relação de correlativo com *yád*.
+- _tát_: relação de correlativo com _yád_.
 
-## Estrofe 7:
+## Estrofe 7
 
-- *tvā*: acusativo clítico equivalente a *tvām*.
+- _tvā_: acusativo clítico equivalente a _tvām_.
 
-- *dóṣāvastar*: composto complicado; Sāyaṇa diz ser um advérbio feito em um composto *dvandva* "noite e dia"; os tradutores lêem como: "iluminer of the gloom" Macdonell, "illuminator in the evening" Jamison e Brereton, "que iluminas durante a noite" Macedo; a decisão de Macdonell tem em vista passagens como ii.49.4 *kṣapāṃ vastā janitā sūryasya* "iluminador da noite, criador do sol".
+- _dóṣāvastar_: composto complicado; Sāyaṇa diz ser um advérbio feito em um composto _dvandva_ "noite e dia"; os tradutores lêem como: "iluminer of the gloom" Macdonell, "illuminator in the evening" Jamison e Brereton, "que iluminas durante a noite" Macedo; a decisão de Macdonell tem em vista passagens como ii.49.4 _kṣapāṃ vastā janitā sūryasya_ "iluminador da noite, criador do sol".
 
-- *dóṣā*: *EWA* 1 p.750 ?; avj. *daošatara* "que se dirige à noite"; talvez alguma relação com gr. δείελος "relacionado com a madrugada" \< *\*deu̯-elo*, Beekes p.308f. descarta essa possibilidade.
+- _dóṣā_: _EWA_ 1 p.750 ?; avj. _daošatara_ "que se dirige à noite"; talvez alguma relação com gr. δείελος "relacionado com a madrugada" \< _\*deu̯-elo_, Beekes p.308f. descarta essa possibilidade.
 
-- *dhiyā́*: feminino instrumental singular de *dhī*.
+- _dhiyā́_: feminino instrumental singular de _dhī_.
 
-- *námas*: *EWA* 2 p.16 *\*nemes*; av. *nɘmah-*; gr. νέμος "pastagem"; lat. *nemus* "bosque sagrado".
+- _námas_: _EWA_ 2 p.16 _\*nemes_; av. _nɘmah-_; gr. νέμος "pastagem"; lat. _nemus_ "bosque sagrado".
 
-- *émasi*: texto em pada: आ । इ॒म॒सि॒  : *ā́ imasi*.
+- _émasi_: texto em pada: आ । इ॒म॒सि॒  : _ā́ imasi_.
 
-- *úpa* (\...) *ā́ imasi*: os dois prevérbios são comuns junto a verbos de movimento e o primeiro costuma aparecer bem distante do verbo; a desinência *-masi* equivale a *-maḥ* (gr. -μες) é a mais comum para primeiras pessoas do plural no RV.
+- _úpa_ (\…) _ā́ imasi_: os dois prevérbios são comuns junto a verbos de movimento e o primeiro costuma aparecer bem distante do verbo; a desinência _-masi_ equivale a _-maḥ_ (gr. -μες) é a mais comum para primeiras pessoas do plural no RV.
 
-## Estrofe 8:
+## Estrofe 8
 
-- *rā́jantam adhvarā́nāṃ*: verbos de ordem e poder + genitivo.
+- _rā́jantam adhvarā́nāṃ_: verbos de ordem e poder + genitivo.
 
-- *adhvarā́nāṃ*: a sílaba final deve ser pronunciada como duas sílabas; genitivos plurais em *ām* costumam permitir essa dissolução Macdonell p.9; Macdonell p.437; 
+- _adhvarā́nāṃ_: a sílaba final deve ser pronunciada como duas sílabas; genitivos plurais em _ām_ costumam permitir essa dissolução Macdonell p.9; Macdonell p.437;
 
-- *gopā́m*: tema masculino em *-ā* reanalizado em sânscrito para um tema em *-a*.
+- _gopā́m_: tema masculino em _-ā_ reanalizado em sânscrito para um tema em _-a_.
 
-- *pā-*: *EWA* 2 p.112--3 *\*peh₃-* gr. πῶμα "cobertura", ποιμήν "pastor"; lit. *piemuō*; ou *\*peh₂(s)-* como lat. *pās-tor*; hit. *paḫ-ḫi*.
+- _pā-_: _EWA_ 2 p.112--3 _\*peh₃-_ gr. πῶμα "cobertura", ποιμήν "pastor"; lit. _piemuō_; ou _\*peh₂(s)-_ como lat. _pās-tor_; hit. _paḫ-ḫi_.
 
-- *r̥tá*: *EWA* 1 p.254--5 PPP *\*h₂r-tó*; em indoariano do oriente médio *ar-ta-ta-a-ma* ($\simeq$ ved. r̥tá-dhāman); elamita via persa *ir-da/ir-ta*; pa. *a-r-t-x-š-ç* (Artaxerxes); em avesta, na formação de nomes próprios *ɘrɘta, arɘta* e av. *aṣ̌a*.
+- _r̥tá_: _EWA_ 1 p.254--5 PPP _\*h₂r-tó_; em indoariano do oriente médio _ar-ta-ta-a-ma_ ($\simeq$ ved. r̥tá-dhāman); elamita via persa _ir-da/ir-ta_; pa. _a-r-t-x-š-ç_ (Artaxerxes); em avesta, na formação de nomes próprios _ɘrɘta, arɘta_ e av. _aṣ̌a_.
 
-- *dī́divi*: *EWA* 1 p.701 DAY *\*dei̯h₂-*; gr. δέατο, δῆλος, δέελος, δίνω.
+- _dī́divi_: _EWA_ 1 p.701 DAY _\*dei̯h₂-_; gr. δέατο, δῆλος, δέελος, δίνω.
 
-- *várdhamānaṃ*: particípio presente médio de *vr̥dh* "crescer".
+- _várdhamānaṃ_: particípio presente médio de _vr̥dh_ "crescer".
 
-- *sᵤvé*: reflexivo usado para todas as pessoas.
+- _sᵤvé_: reflexivo usado para todas as pessoas.
 
-- *dáme*: igual a lat. *domus*; desaparece em sânscrito.
+- _dáme_: igual a lat. _domus_; desaparece em sânscrito.
 
-## Estrofe 9:
+## Estrofe 9
 
-- *sá*: usado como expletiva no sentido de "então" (Whitney §498; Macdonell §180 p.249).
+- _sá_: usado como expletiva no sentido de "então" (Whitney §498; Macdonell §180 p.249).
 
-- *naḥ*: enclítico de dativo do pronome de 1ª do plural.
+- _naḥ_: enclítico de dativo do pronome de 1ª do plural.
 
-- *pitéva sūnáve*: *pitā́ iva sūnáve* "como um pai para um filho"; em védico, o par "pai e filho", *pitr̥* e *sūnu* costuma diferir do par "mãe e filho", *matr̥* e *putra*.
+- _pitéva sūnáve_: _pitā́ iva sūnáve_ "como um pai para um filho"; em védico, o par "pai e filho", _pitr̥_ e _sūnu_ costuma diferir do par "mãe e filho", _matr̥_ e _putra_.
 
-- *sūpāyanó*: "de bom/fácil acesso".
+- _sūpāyanó_: "de bom/fácil acesso".
 
-- *sácasvā*: imperativo médio de 2ª pessoa do singular com vogal final alongada no texto do hino (mas breve no pada), do verbo *sac*: "morar junto, estar entre", rege instrumental ou acusativo; no imperativo, as regras de acentuação variam de acordo com a classe do verbo.
+- _sácasvā_: imperativo médio de 2ª pessoa do singular com vogal final alongada no texto do hino (mas breve no pada), do verbo _sac_: "morar junto, estar entre", rege instrumental ou acusativo; no imperativo, as regras de acentuação variam de acordo com a classe do verbo.
 
-- *sac-*: *EWA* 2 p.686--7 *\*sekᵘ͏̯*; ava. *hačaitē*; gr. ἕπομαι; lat. *sequor*; ira. *sechithir*; lit. *sekti*.
+- _sac-_: _EWA_ 2 p.686--7 _\*sekᵘ͏̯_; ava. _hačaitē_; gr. ἕπομαι; lat. _sequor_; ira. _sechithir_; lit. _sekti_.
 
-- *naḥ*: enclítico de acusativo do pronome de 1ª do plural, regido pelo verbo *sácasvā*.
+- _naḥ_: enclítico de acusativo do pronome de 1ª do plural, regido pelo verbo _sácasvā_.
 
-- *sᵤvastáye*: dativo, "para o (nosso) bem-estar".
+- _sᵤvastáye_: dativo, "para o (nosso) bem-estar".
 
 # Vocabulário
 
-| Entrada      | Morfologia      |  Sentido             |
-| :---: | :----: | :----------- |
-| agní | m. -i | Agni, deus fogo |
-| aṅgá | part. | mesmo; exatamente |
-| áṅgiras | m. -as | Angiras, epíteto de Agni |
-| adhvará | m. -a | sacrifício, ritual |
-| aś | 5. P *aśnoti* | alcançar, obter |
-| as | 2. P *asti* | ser; estar |
-| ā | prep. | próximo, até perto |
-| i | 2. P *eti* | ir; *ā+i* aproximar-se |
-| id | part. | de fato |
-| ihá | adv. | aqui |
-| īḍ | 2. Ā *īṭṭe* | invocar, chamar |
-| iva | part. | como |
-| utá | conj. | conjunção aditiva |
-| úpa | prep. | próximo, até perto |
-| r̥tá | n. -a | ação apropriada (?) |
-| r̥tvíj | m. cons. | que realiza o ritual (? no momento apropriado) |
-| ŕ̥ṣi | m. -i | sábio, poeta |
-| evá | part. | mesmo |
-| kavíkratu | adj. -u | *kávi* + *krátu* que tem intensão, desígnio, poder de sábio, cantor, bardo, poeta |
-| kr̥ | várias classes P *karoti* | fazer |
-| gam | 1. U. *gacchati* | ir; *(úpa +) ā + gam* vir, chegar |
-| gopā́ | m. -ā | pastor, guardião |
-| citráśravas | adj. -s | (*citrá* + *śrávas*) que tem a glória brilhante, resplendorosa |
-| tvám | pron. | 2ª pessoa do singular |
-| dáma | m. ou n. -a | casa |
-| dāś | 1. P dāśati | dar como presente, honrar (um deus) |
-| divédive | adv. | dia-a-dia |
-| dī́divi | adj. -i | brilhante |
-| devá | m. -a | deus, divindade |
-| dóṣāvastr̥ | m. -r̥ | (*doṣā́* + *vas*) que ilumina a escuridão; em Sāyaṇa *adv.* noite e dia |
-| dhī́ | f. -ī | pensamento, reflexão |
-| námas | n. -as | reverência, honra, saudação |
-| nū́tana | adj. -a | atual, presente |
-| paribhū́ | adj. cons. | que está em volta, que circunda |
-| pitŕ̥ | m. -r̥ | pai |
-| puróhita | adj. -a | (*puras* + PPP *hita* < *dhā*) posto à frente |
-| pū́rva | adj. -a | anterior |
-| póṣa | m. -a | prosperidade, abundância |
-| bhadrá | n. -a | bem, alegria, boa fortuna, prosperidade |
-| bhū | 1. P *bhavati* | ser; estar |
-| bhr̥ | 1. P *bharati* | carregar, levar |
-| yá | pron. | relativo |
-| yajñá | m. -a | sacrifício |
-| yaśás | adj. -as | esplendoroso, glorioso |
-| ratnadhā́tama | adj. -a | (*rátna* + *dhā́*) doador das melhores dádivas; maior dador de dádivas |
-| rayí | m. -i | riquezas, propriedades |
-| rāj | 1. U *rājati* | reinar |
-| vayám | pron. | 1ª pessoa plural |
-| vah | 1. U *vahati* | conduzir |
-| vīrávattama | adj. -a | (*vīrá* + *vat*) que tem muitos varões, que tem os melhores varões |
-| viśvátaḥ | adv. | (*víśva*) por todos os lados, completamente, em todo lugar |
-| vr̥dh | 1. Ā *vr̥dhate* | crescer, aumentar |
-| sá | pron. | demonstrativo e correlativo |
-| sac | 1. Ā *sacate* | estar entre, habitar, morar junto |
-| satyá | adj. -a | verdadeiro |
-| sūnú | m. -u | filho |
-| sūpāyaná | adj. -a | de bom/fácil acesso |
-| svá | pron. | reflexivo |
-| svastí | f. ou n. -i | bem-estar |
-| hótr̥ | m. -r̥ | (*hu*) ministrante, realizador do ritual |
+|   Entrada    |        Morfologia         | Sentido                                                                           |
+| :----------: | :-----------------------: | :-------------------------------------------------------------------------------- |
+|     agní     |           m. -i           | Agni, deus fogo                                                                   |
+|     aṅgá     |           part.           | mesmo; exatamente                                                                 |
+|   áṅgiras    |          m. -as           | Angiras, epíteto de Agni                                                          |
+|   adhvará    |           m. -a           | sacrifício, ritual                                                                |
+|      aś      |       5. P _aśnoti_       | alcançar, obter                                                                   |
+|      as      |        2. P _asti_        | ser; estar                                                                        |
+|      ā       |           prep.           | próximo, até perto                                                                |
+|      i       |        2. P _eti_         | ir; _ā+i_ aproximar-se                                                            |
+|      id      |           part.           | de fato                                                                           |
+|     ihá      |           adv.            | aqui                                                                              |
+|      īḍ      |        2. Ā _īṭṭe_        | invocar, chamar                                                                   |
+|     iva      |           part.           | como                                                                              |
+|     utá      |           conj.           | conjunção aditiva                                                                 |
+|     úpa      |           prep.           | próximo, até perto                                                                |
+|     r̥tá      |           n. -a           | ação apropriada (?)                                                               |
+|    r̥tvíj     |         m. cons.          | que realiza o ritual (? no momento apropriado)                                    |
+|     ŕ̥ṣi      |           m. -i           | sábio, poeta                                                                      |
+|     evá      |           part.           | mesmo                                                                             |
+|  kavíkratu   |          adj. -u          | _kávi_ + _krátu_ que tem intensão, desígnio, poder de sábio, cantor, bardo, poeta |
+|      kr̥      | várias classes P _karoti_ | fazer                                                                             |
+|     gam      |     1. U. _gacchati_      | ir; _(úpa +) ā + gam_ vir, chegar                                                 |
+|     gopā́     |           m. -ā           | pastor, guardião                                                                  |
+| citráśravas  |          adj. -s          | (_citrá_ + _śrávas_) que tem a glória brilhante, resplendorosa                    |
+|     tvám     |           pron.           | 2ª pessoa do singular                                                             |
+|     dáma     |        m. ou n. -a        | casa                                                                              |
+|     dāś      |        1. P dāśati        | dar como presente, honrar (um deus)                                               |
+|   divédive   |           adv.            | dia-a-dia                                                                         |
+|    dī́divi    |          adj. -i          | brilhante                                                                         |
+|     devá     |           m. -a           | deus, divindade                                                                   |
+|  dóṣāvastr̥   |           m. -r̥           | (_doṣā́_ + _vas_) que ilumina a escuridão; em Sāyaṇa _adv._ noite e dia            |
+|     dhī́      |           f. -ī           | pensamento, reflexão                                                              |
+|    námas     |          n. -as           | reverência, honra, saudação                                                       |
+|    nū́tana    |          adj. -a          | atual, presente                                                                   |
+|   paribhū́    |        adj. cons.         | que está em volta, que circunda                                                   |
+|     pitŕ̥     |           m. -r̥           | pai                                                                               |
+|   puróhita   |          adj. -a          | (_puras_ + PPP _hita_ < _dhā_) posto à frente                                     |
+|    pū́rva     |          adj. -a          | anterior                                                                          |
+|     póṣa     |           m. -a           | prosperidade, abundância                                                          |
+|    bhadrá    |           n. -a           | bem, alegria, boa fortuna, prosperidade                                           |
+|     bhū      |      1. P _bhavati_       | ser; estar                                                                        |
+|     bhr̥      |      1. P _bharati_       | carregar, levar                                                                   |
+|      yá      |           pron.           | relativo                                                                          |
+|    yajñá     |           m. -a           | sacrifício                                                                        |
+|    yaśás     |         adj. -as          | esplendoroso, glorioso                                                            |
+| ratnadhā́tama |          adj. -a          | (_rátna_ + _dhā́_) doador das melhores dádivas; maior dador de dádivas             |
+|     rayí     |           m. -i           | riquezas, propriedades                                                            |
+|     rāj      |       1. U _rājati_       | reinar                                                                            |
+|    vayám     |           pron.           | 1ª pessoa plural                                                                  |
+|     vah      |       1. U _vahati_       | conduzir                                                                          |
+| vīrávattama  |          adj. -a          | (_vīrá_ + _vat_) que tem muitos varões, que tem os melhores varões                |
+|   viśvátaḥ   |           adv.            | (_víśva_) por todos os lados, completamente, em todo lugar                        |
+|     vr̥dh     |      1. Ā _vr̥dhate_       | crescer, aumentar                                                                 |
+|      sá      |           pron.           | demonstrativo e correlativo                                                       |
+|     sac      |       1. Ā _sacate_       | estar entre, habitar, morar junto                                                 |
+|    satyá     |          adj. -a          | verdadeiro                                                                        |
+|     sūnú     |           m. -u           | filho                                                                             |
+|   sūpāyaná   |          adj. -a          | de bom/fácil acesso                                                               |
+|     svá      |           pron.           | reflexivo                                                                         |
+|    svastí    |        f. ou n. -i        | bem-estar                                                                         |
+|     hótr̥     |           m. -r̥           | (_hu_) ministrante, realizador do ritual                                          |
 
 # Bibliografia
 
@@ -406,8 +407,8 @@ Jamison e Brereton p.89 traduzem por "will come as god with the gods".
 # Notas
 
 [^1]: Se quiserem, vejam a discussão do Matthew Scarborough sobre dicionários etimológicos de línguas índicas [aqui](https://consultingphilologist.wordpress.com/2020/08/30/indo-european-etymological-dictionaries-for-the-perplexed-indic/)
-
-[^2]: Oldenberg [-@Oldenberg2005 7--30] fez um extenso trabalho
+[^2]:
+    Oldenberg [-@Oldenberg2005 7--30] fez um extenso trabalho
     estatístico sobre os metros do r̥gveda no qual ele propõe que a forma
     mais básica dos versos de estrofes octossilábicas teria as 2ª, 4ª,
     6ª e 8ª sílabas preferencialmente longas para dar o andamento
@@ -417,7 +418,5 @@ Jamison e Brereton p.89 traduzem por "will come as god with the gods".
     > ⏓ ‒ ⏓ ⏓ \| ⏑ ‒ ⏑ ⏓ \|\|
 
 [^3]: Isto é, verbo de movimento + acusativo
-
 [^4]: Traduz gr. λόγος, ῥῆμα.
-
-[^5]: Grassman p.13: '*Es hebt das nächst vorhergehende oder höchstens durch ein Wörtchen wie hí oder īm getrennte Wort hervor, in dem Sinne, dass von dem durch dies Wort bezeichneten oder angedeuteten Dinge das zu sagende mehr gilt als von jedem andern, oder nur von ihm; es heisst also z. B. tuám aṅgá: kein anderer (mehr) als du, nur du, du gerade; yás aṅgá, gerade der, welcher; yád aṅgá, gerade dann, oder gerade darum, weil; kím aṅgá, warum sonst, aus welchem andern Grunde u. s. w. (vgl. 84,6---9; 572,2.) Das hervorgehobene Wort steht am Anfang des Versgliedes.*'
+[^5]: Grassman p.13: '_Es hebt das nächst vorhergehende oder höchstens durch ein Wörtchen wie hí oder īm getrennte Wort hervor, in dem Sinne, dass von dem durch dies Wort bezeichneten oder angedeuteten Dinge das zu sagende mehr gilt als von jedem andern, oder nur von ihm; es heisst also z. B. tuám aṅgá: kein anderer (mehr) als du, nur du, du gerade; yás aṅgá, gerade der, welcher; yád aṅgá, gerade dann, oder gerade darum, weil; kím aṅgá, warum sonst, aus welchem andern Grunde u. s. w. (vgl. 84,6---9; 572,2.) Das hervorgehobene Wort steht am Anfang des Versgliedes._'

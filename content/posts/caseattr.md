@@ -14,6 +14,7 @@ showFullContent = false
 
 Em grego antigo (daqui pra frente apenas grego), adjetivos que modificam um substantivo ou pronome concordam em gênero, número (como em português) e caso.
 As categorias disponíveis são:
+
 - Gênero: masculino, feminino e neutro
 - Número: singular, plural e dual (raro)
 - Caso: nominativo, acusativo, genitivo, dativo e (dependendo da análise) vocativo
@@ -35,7 +36,6 @@ det.M.GEN.SG   sábio.M.GEN.SG.  deus.M.GEN.SG.
 det.F.DAT.PL   sábio.F.DAT.PL.  deus.F.DAT.PL.
 "As deusas sábias"
 ```
-
 
 Além de adjetivos, particípios em posição "atributiva" também concordam com os substantivos ou pronomes que modificam.
 O mesmo vale para posições predicativas, onde também nomes concordam (quando possível) com o sujeito da oração, sempre no nominativo, caso usado para marcar o sujeito dos verbos finitos.
@@ -71,11 +71,11 @@ dizer.PRES-1SG  det.M.NOM.SG    deus.M.NOM.SG   ser.PRES-INF    sábio-M.NOM.SG
 # Atração de caso
 
 Algo interessante acontece quando `a)` o sujeito da oração infinitiva não aparece explicitamente; `b)` o referente do sujeito da oração infinitiva é um objeto indireto da matriz; e `c)` um predicativo do sujeito da infinitiva aparece.
-Em geral, esse predicativo recebe caso acusativo, caso *default* para o sujeito e seus predicados em orações infinitivas, como no exemplo abaixo:
+Em geral, esse predicativo recebe caso acusativo, caso _default_ para o sujeito e seus predicados em orações infinitivas, como no exemplo abaixo:
 
 ```
-συμβουλεύ-ω        σοι          ... ἐλθόντ-α             εἰς   Δελφ-οὺς
-aconselho-1PRES.SG pron.DAT.2SG ... ir.PART.AOR-M.ACC.SG prep. D.-M.ACC.PL
+συμβουλεύ-ω        σοι          … ἐλθόντ-α             εἰς   Δελφ-οὺς
+aconselho-1PRES.SG pron.DAT.2SG … ir.PART.AOR-M.ACC.SG prep. D.-M.ACC.PL
 
 ἀνακοινῶ-σ-αι     τῷ           θε-ῷ          περὶ  τῆς          πορεί-ας
 consultar-AOR-INF det.M.DAT.SG deus.M.DAT.SG prep. det.F.GEN.SG viagem.F-GEN.SG
@@ -87,7 +87,7 @@ Nesse exemplo, σοι "a ti" está no dativo, servindo de objeto indireto do ver
 O argumento que representa o "aconselhado" também representa o sujeito da ação aconselhada, então sujeito do particípio ἐλθόντα "indo" tem como referente σοι.
 Como ἐλθόντα modifica o sujeito "oculto" de uma oração infinitiva, ele recebe caso acusativo.
 Algumas pessoas consideram essa construção atípica e esperariam que σοι e ἐλθόντ- concordassem, uma vez que não há um sujeito na oração infinitiva com o qual o predicativo possa concordar e seu referente é o mesmo do objeto indireto da matriz.
-Essa segunda possibilidade ocorre e, pela semelhança com outro fenômeno assim, ganhou o nome de *atração de caso*.
+Essa segunda possibilidade ocorre e, pela semelhança com outro fenômeno assim, ganhou o nome de _atração de caso_.
 Compare a frase anterior à frase abaixo:
 
 ```
@@ -106,6 +106,3 @@ Mas dessa vez o particípio ἐλθόντι está no dativo, concordando não c
 Embora as duas frases sejam extremamente semelhantes, um par mínimo, elas não realizam a mesma atribuição de caso ao particípio.
 Até agora, não há muita certeza do porquê isso acontece (ou sequer se isso realmente acontece e não é só um resultado estranho da transmissão dos textos).
 O meu mestrado pretende dar conta pelo menos da distribuição das duas construções, com o intuito de ter uma base mais sólida para explicar qual a diferença entre esses dois exemplos e seus similares.
-
-
-
