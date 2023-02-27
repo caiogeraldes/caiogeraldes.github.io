@@ -38,6 +38,10 @@ paginate = 5
 
     [languages.pt.menu]
       [[languages.pt.menu.main]]
+        identifier = "portfólio"
+        name = "portfólio"
+        url = "/portfolio"
+      [[languages.pt.menu.main]]
         identifier = "sobre"
         name = "sobre"
         url = "/sobre"
@@ -53,4 +57,7 @@ paginate = 5
         identifier = "tags"
         name = "tags"
         url = "/tags"
-
+     [[languages.pt.menu.main]]
+        identifier = "contato"
+        name = "contato"
+        url = "/contato"
