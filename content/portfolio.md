@@ -17,6 +17,10 @@ necessidades ou de contato com a academia.
 
 ## LaTeX
 
+Adoro diagramar coisas em LaTeX e se você quiser uma formatação chique do seu TCC,
+Dissertação ou Tese, aqui vão dois exemplos que já fiz.
+Faço índices e glossários também, se quiser um pouco mais de elegância :).
+
 - Diagramação de:\
   Geraldes, Caio (2020) _Case Attraction on Infinitive Clauses of Ancient Greek._
   Universidade de São Paulo, São Paulo. DOI: `10.11606/D.8.2020.tde-12042021-174449`.
@@ -44,6 +48,8 @@ necessidades ou de contato com a academia.
   "position" = "center" >}}
 
 ## Software
+
+É hobby, mas vai que:
 
 - Conversores da "família" `pieoffice` para facilitar a escrita de línguas
   indoeuropeias antigas em seus alfabetos autóctones.
