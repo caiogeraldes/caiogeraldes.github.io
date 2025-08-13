@@ -4,60 +4,62 @@ defaultContentLanguage = "pt"
 title = 'caio g'
 
 theme = "terminal"
-paginate = 5
+
+[pagination]
+pagerSize = 5
 
 [params]
-    contentTypeName = 'posts'
-    themeColor = 'orange'
+contentTypeName = 'posts'
+themeColor = 'orange'
 
-    showLanguageSelector = false
+showLanguageSelector = false
 
-    fullWidthTheme = true
-    centerTheme = true
+fullWidthTheme = true
+centerTheme = true
 
 [params.twitter]
-    creator = 'fileretmos'
-    site = 'https://twitter.com/fileretmos'
+creator = 'fileretmos'
+site = 'https://twitter.com/fileretmos'
 
 [languages]
-    [languages.pt]
-        languageName = "Português"
-        title = "caio g"
-        substitle = "blog pessoal e cv digital"
-        owner = "Caio Geraldes"
-        menuMore = "Ver mais"
-        readMore = "Ler mais"
-        readOtherPosts = 'Ler outras postagens'
-        newerPosts = 'Novas postagens'
-        olderPosts = 'Postagens antigas'
-        missingContentMessage = 'Nada por  aqui'
-        missingBackButtonLabel = 'De volta ao começo'
+[languages.pt]
+languageName = "Português"
+title = "caio g"
+substitle = "blog pessoal e cv digital"
+owner = "Caio Geraldes"
+menuMore = "Ver mais"
+readMore = "Ler mais"
+readOtherPosts = 'Ler outras postagens'
+newerPosts = 'Novas postagens'
+olderPosts = 'Postagens antigas'
+missingContentMessage = 'Nada por  aqui'
+missingBackButtonLabel = 'De volta ao começo'
 
-    [languages.pt.params.logo]
-        logoText = 'caio g'
+[languages.pt.params.logo]
+logoText = 'caio g'
 
-    [languages.pt.menu]
-      [[languages.pt.menu.main]]
-        identifier = "portfólio"
-        name = "portfólio"
-        url = "/portfolio"
-      [[languages.pt.menu.main]]
-        identifier = "sobre"
-        name = "sobre"
-        url = "/sobre"
-      [[languages.pt.menu.main]]
-        identifier = "herodoto"
-        name = "heródoto - histórias"
-        url = "/herodoto"
-     [[languages.pt.menu.main]]
-        identifier = "rss"
-        name = "rss"
-        url = "/posts/index.xml"
-     [[languages.pt.menu.main]]
-        identifier = "tags"
-        name = "tags"
-        url = "/tags"
-     [[languages.pt.menu.main]]
-        identifier = "contato"
-        name = "contato"
-        url = "/contato"
+[languages.pt.menu]
+[[languages.pt.menu.main]]
+identifier = "portfólio"
+name = "portfólio"
+url = "/portfolio"
+[[languages.pt.menu.main]]
+identifier = "sobre"
+name = "sobre"
+url = "/sobre"
+[[languages.pt.menu.main]]
+identifier = "herodoto"
+name = "heródoto - histórias"
+url = "/herodoto"
+[[languages.pt.menu.main]]
+identifier = "rss"
+name = "rss"
+url = "/posts/index.xml"
+[[languages.pt.menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags"
+[[languages.pt.menu.main]]
+identifier = "contato"
+name = "contato"
+url = "/contato"
